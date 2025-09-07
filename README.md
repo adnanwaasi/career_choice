@@ -30,3 +30,4 @@ A robust FastAPI application for user management and model-based responses.
 ## Notes
 - The model endpoint uses `ollama` and expects the model `career` to be available.
 - For production, update CORS settings and consider using a real database.
+- well this is my first api project so please be gentle <3 
